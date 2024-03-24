@@ -56,6 +56,7 @@ line-height: 180%;
 text-align: left;
 background-color: #ececec;
 padding: 5px;
+margin: 0 0 0.5em 0;
 }
 p.cita {
 margin-left: 80px;
@@ -119,7 +120,7 @@ margin: 0 auto;
 padding: 0;
 }
 article {
-width: 83%;
+width: 77%;
 float: left;
 margin: 0 auto;
 padding: 0px 0px 20px 0px;
@@ -141,7 +142,7 @@ article blockquote {
 margin: 1em 20px;
 }
 aside {
-width: 10%;
+width: 15%;
 float: right;
 text-align: left;
 margin: 0 auto;
@@ -256,8 +257,10 @@ border-left: 15px solid #dfbf9f;
 ----------------------------------------------- */
 
 aside ul {
-margin: 1.5em 0;
+margin: 0;
 padding: 1.5em 0;
+border-top: 1px dotted #ccc;
+border-bottom: 1px dotted #ccc;
 list-style: none;
 }
 aside li {
