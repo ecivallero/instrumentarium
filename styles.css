@@ -138,6 +138,9 @@ height: auto;
 display: block;
 margin: 0 auto; 
 }
+img.vert {
+width: 70%;
+}
 article blockquote {
 margin: 1em 20px;
 }
