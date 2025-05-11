@@ -1,38 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
 <head>
-<title>Instrumentarium</title>	
+<title>Inicio | Instrumentarium</title>
 
 <!-- metadatos -->
 
 <meta charset="utf-8" />
-<meta name="title" content="Instrumentarium"/>	
-<meta name="description" content="Un proyecto de humanidades digitales sobre música e instrumentos musicales. Por Edgardo Civallero"/>
-<meta name="keywords" content="música, instrumentos musicales, musicología, etnomusicología, organología, memoria, historia, identidad, patrimonio, cultural, tangible, intangible, sonidos, silencios, patrimonio sonoro, documentos sonoros, audiovisual"/>
-<meta name="revisit-after" content="2 days" />
+<meta name="description" content="Archivo digital sobre instrumentos musicales, memoria sonora y patrimonio cultural. Un proyecto de Edgardo Civallero para la documentación y divulgación organológica."/>
 <meta name="author" content="Edgardo Civallero" />
-<meta name="robot" content="index, follow" />
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<meta http-equiv="imagetoolbar" content="no" />
 
-<!-- Font Awesome -->
+<!-- Stylesheets -->
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 
-<!-- Inicio CSS -->
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css" />
 
 <!-- Fin CSS -->
-
-<!-- Inicio Script -->
-
-<script type="text/javascript">
-cookieChoices = {};
-</script>
-
-<!-- Fin Script -->
 
 </head>
 
@@ -44,36 +29,23 @@ cookieChoices = {};
 
 <!-- Inicio de la barra de navegación #01 -->
 
-<nav>
-<div class="nav01">
-<ul>
-<li><a href="index.html">inicio</a></li>
-<li><a href="instrumentarium.html" title="Acerca de Instrumentarium" alt="Acerca de Instrumentarium">instrumentarium</a></li>
-<li><a href="instrumentarium.html#autor" title="El autor" alt="El autor">autor</a></li>
-<li><a href="instrumentarium.html#contacto" title="Contacto" alt="Contacto">contacto</a></li>
-<li id="alignright"><a href="eng/english.html" title="Instrumentarium in English" alt="Instrumentarium in English">in english</a></li>
-</ul>
-</div>
-</nav>
+<div data-include="includes/nav01.html"></div>
 
 <!-- Fin de la barra de navegación #01 -->
 
 <div class="divcolor"></div>
 
-<!-- Cabecera -->
+<!-- Inicio de la imagen de cabecera -->
 
-<img src="img/cabecera.png" alt="Cabecera de Instrumentarium" />
+<div class="site-header"></div>
 
-<!-- Fin de cabecera -->
+<!-- Fin de la imagen de cabecera -->
 
 <!-- Inicio de la barra de navegación #02 -->
 
-<div class="nav02">
-<ul>
-<li id="alignright"><a href="https://www.edgardocivallero.com/" target="_blank" title="Edgardo Civallero" alt="Edgardo Civallero">edgardocivallero.com</a></li>
-<li id="alignright"><a href="blog.html" title="Blog Bitácora de un músico" alt="Blog Bitácora de un músico">blog</a></li>
-</ul>
-</div>
+<div data-include="includes/nav02.html"></div>
+
+<!-- Fin de la barra de navegación #02 -->
 
 <div class="divcolor"></div>
 
@@ -91,54 +63,69 @@ cookieChoices = {};
 
 <article>
 
-<p class="titular"><b>Blog Bitácora de un músico</b> | El apunte más reciente</p> 
-<img src="imgblog/A.png" alt="Blog Bitácora de un músico. El apunte más reciente. Por Edgardo Civallero" />  
-<br />  
-<p class="subtitle"><b>Cavernas musicales</b></p>
+<section>
+<p class="titular"><b>Blog Bitácora de un músico</b> | El apunte más reciente</p>
+<img src="imgblog/A.png" alt="Blog Bitácora de un músico. El apunte más reciente. Por Edgardo Civallero" />
+<br />
+<h2><b>Cavernas musicales</b></h2>
+<p style="font-size: 80%;">| Publicado el 24 de abril de 2025 |</p>
 <p>
 Lo dice en un artículo escrito por una de las pioneras de los estudios artísticos prehistóricos: la rumana Lya Dams, quien terminó especializándose en el arte rupestre del Levante español. </p>
 <p>
 El texto en cuestión, titulado "Palaeolithic lithophones: descriptions and comparisons" (publicado en el <i>Oxford Journal of Archaeology</i>, 4 (1), March 1985, pp. 31-46), señala que los primeros seres humanos pudieron llegar a utilizar las estalactitas, las estalagmitas y otras formaciones calcáreas de las cavernas que habitaron como litófonos. </p>
-<p>[<a href="blog/apunte007.html" alt="Continuar leyendo…" title="Continuar leyendo…" >Continuar leyendo...</a>]</p>
+<p>[<a href="blog/apunte007.html" title="Continuar leyendo…" >Continuar leyendo...</a>]</p>
 <p>
-<span class="fa fa-reorder" style="color: #999999;"></span>&nbsp;&nbsp;<a href="blog.html#apuntes" alt="Todos los apuntes" title="Todos los apuntes" >Todos los apuntes en el blog</a>
-</p>  
-<br />         
+<span class="fa fa-reorder" style="color: #999999;"></span>&nbsp;&nbsp;<a href="blog.html#apuntes" alt="Todos los apuntes" title="Todos los apuntes">Todos los apuntes en el blog</a>
+</p>
+<br />
 <div class="divcolor"></div>
-<p class="titular"><b>Blog Bitácora de un músico</b> | La nota más reciente</p> 
-<img src="imgblog/B.png" alt="Blog Bitácora de un músico. La nota más reciente. Por Edgardo Civallero" />  
-<br />  
-<p class="subtitle"><b><i>Kamacheña</i>: Una flauta andina de una mano</b></p>
+</section>
+
+<section>
+<p class="titular"><b>Blog Bitácora de un músico</b> | La nota más reciente</p>
+<img src="imgblog/B.png" alt="Blog Bitácora de un músico. La nota más reciente. Por Edgardo Civallero" />
+<br />
+<h2><b><i>Kamacheña</i>: Una flauta andina de una mano</b></h2>
+<p style="font-size: 80%;">| Publicado el 29 de abril de 2025 |</p>
 <p>
 La <i>kamacheña</i> o <i>camacheña</i> (también llamada <i>quena jujeña</i>, <i>flautilla</i> o <i>quenilla de Pascua</i>) es una flauta de caña de unos 30-35 cm de longitud, con el extremo distal cerrado y el proximal abierto. En este último se talla una particular embocadura, similar a la de una quena andina (una simple muesca) pero dotada de dos aletas laterales. En el proximal lleva tres orificios de digitación y uno de afinación frontales. Se interpreta en el departamento de Tarija (sur de Bolivia) y en puntos de las provincias de Jujuy y Salta (noroeste de Argentina).</p>
-<p>[<a href="blog/nota007.html" alt="Continuar leyendo…" title="Continuar leyendo…" >Continuar leyendo...</a>]</p>
+<p>[<a href="blog/nota007.html" title="Continuar leyendo…">Continuar leyendo...</a>]</p>
 <p>
-<span class="fa fa-reorder" style="color: #999999;"></span>&nbsp;&nbsp;<a href="blog.html#notas" alt="Todas las notas" title="Todas las notas" >Todas las notas en el blog</a>
-</p>  
-<br />         
-<div class="divcolor"></div>  
-<p class="titular"><b>Artículos y compilaciones</b></p>     
-<img src="imgblog/C.png" alt="Instrumentarium. Artículos y compilaciones" />     
-<br />  
-<p class="subtitle"><b>El erquencho y otros clarinetes idioglóticos</b></p>
+<span class="fa fa-reorder" style="color: #999999;"></span>&nbsp;&nbsp;<a href="blog.html#notas" alt="Todas las notas" title="Todas las notas">Todas las notas en el blog</a>
+</p>
+<br />
+<div class="divcolor"></div>
+</section>
+
+<section>
+<p class="titular"><b>Artículos y compilaciones</b></p>
+<img src="imgblog/C.png" alt="Instrumentarium. Artículos y compilaciones" />
+<br />
+<h2><b>El erquencho y otros clarinetes idioglóticos</b></h2>
+<p style="font-size: 80%;">| Publicado el 11 de abril de 2025 |</p>
 <p><i>Cuadernos de investigación musical</i>, 17, enero-junio 2023, pp. 150-171.</p>
-<p>En su trabajo de 1935 sobre instrumentos musicales entre los pueblos indígenas de América del Sur, Karl Gustav Izikowitz señaló la existencia de un grupo de clarinetes sin orificios de digitación e idioglóticos que denominó de "tipo meridional". Curiosamente, no incluyó en su lista a uno de los pocos (sino el único) sobrevivientes actuales de esa familia organológica: el <i>erque</i> o <i>erquencho</i>, un aerófono construido e interpretado en el noroeste de Argentina y el sur de Bolivia. De estructura relativamente sencilla, produce un sonido entre ronco, chillón y gangoso, en una gama limitada de notas, lo cual no impide que sea muy popular en su área de procedencia. Desafortunadamente, fuera de ella es, aún hoy, un desconocido. El artículo ofrece una revisión de las principales características de una familia casi perdida, y de un artefacto sonoro bastante invisible y escasamente ejecutado fuera de sus contextos más tradicionales.</p>  
-<p>[<a href="https://drive.google.com/file/d/1HXn9j2WulYSld6mJrU7t6SnrDXQPSLC8/view?usp=drive_link" target="_blank" alt="Continuar leyendo…" title="Continuar leyendo…" >Continuar leyendo...</a>]</p>     
-<p>   
-<span class="fa fa-reorder" style="color: #999999;"></span>&nbsp;&nbsp;<a href="articulos.html" alt="Artículos y compilaciones" title="Artículos y compilaciones" >Todos los artículos y compilaciones</a>
-</p>
-<br />         
-<div class="divcolor"></div>  
-<p class="titular"><b>Libros y otras publicaciones</b></p>     
-<img src="imgblog/D.png" alt="Instrumentarium. Libros y otras publicaciones" />     
-<br />  
-<p class="subtitle"><b>Los parientes africanos de la banda mocha del Chota</b></p>   
+<p>En su trabajo de 1935 sobre instrumentos musicales entre los pueblos indígenas de América del Sur, Karl Gustav Izikowitz señaló la existencia de un grupo de clarinetes sin orificios de digitación e idioglóticos que denominó de "tipo meridional". Curiosamente, no incluyó en su lista a uno de los pocos (sino el único) sobrevivientes actuales de esa familia organológica: el <i>erque</i> o <i>erquencho</i>, un aerófono construido e interpretado en el noroeste de Argentina y el sur de Bolivia. De estructura relativamente sencilla, produce un sonido entre ronco, chillón y gangoso, en una gama limitada de notas, lo cual no impide que sea muy popular en su área de procedencia. Desafortunadamente, fuera de ella es, aún hoy, un desconocido. El artículo ofrece una revisión de las principales características de una familia casi perdida, y de un artefacto sonoro bastante invisible y escasamente ejecutado fuera de sus contextos más tradicionales.</p>
+<p>[<a href="https://drive.google.com/file/d/1HXn9j2WulYSld6mJrU7t6SnrDXQPSLC8/view?usp=drive_link" target="_blank" title="Continuar leyendo…">Continuar leyendo...</a>]</p>
+<p>
+<span class="fa fa-reorder" style="color: #999999;"></span>&nbsp;&nbsp;<a href="articulos.html" title="Artículos y compilaciones">Todos los artículos y compilaciones</a></p>
+<br />
+<div class="divcolor"></div>
+</section>
+
+<section>
+<p class="titular"><b>Libros y otras publicaciones</b></p>
+<img src="imgblog/D.png" alt="Instrumentarium. Libros y otras publicaciones" />
+<br />
+<h2><b>Los parientes africanos de la banda mocha del Chota</b></h2>
+<p style="font-size: 80%;">| Publicado el 11 de abril de 2025 |</p>
 <p>2.ed.rev. Bogotá: Wayrachaki Editora, 2021.</p>
-<p>El texto describe someramente cómo surge y cuáles son los componentes de la expresión musical afro-ecuatoriana conocida como "banda mocha", originaria del valle del Chota, en las estribaciones andinas del norte de Ecuador. A continuación se rastrea el uso del instrumento más característico de este tipo de bandas –la bocina de calabaza– en África central y oriental, especialmente en conjuntos que imitan con tales bocinas el sonido de bandas militares europeas. Finalmente, con los datos aportados y las coincidencias encontradas, se sugiere un vínculo entre la banda mocha y las agrupaciones africanas relevadas.</p>  
-<p>[<a href="https://drive.google.com/file/d/1oCoTyZG8X-i9_8BPjnLGfTYDzVPkK07J/view?usp=drive_link" target="_blank" alt="Continuar leyendo…" title="Continuar leyendo…" >Continuar leyendo...</a>]</p>     
-<p>   
-<span class="fa fa-reorder" style="color: #999999;"></span>&nbsp;&nbsp;<a href="publicaciones.html" alt="Publicaciones" title="Publicaciones" >Todas las publicaciones</a>
-</p>
+<p>El texto describe someramente cómo surge y cuáles son los componentes de la expresión musical afro-ecuatoriana conocida como "banda mocha", originaria del valle del Chota, en las estribaciones andinas del norte de Ecuador. A continuación se rastrea el uso del instrumento más característico de este tipo de bandas –la bocina de calabaza– en África central y oriental, especialmente en conjuntos que imitan con tales bocinas el sonido de bandas militares europeas. Finalmente, con los datos aportados y las coincidencias encontradas, se sugiere un vínculo entre la banda mocha y las agrupaciones africanas relevadas.</p>
+<p>[<a href="https://drive.google.com/file/d/1oCoTyZG8X-i9_8BPjnLGfTYDzVPkK07J/view?usp=drive_link" target="_blank" title="Continuar leyendo…">Continuar leyendo...</a>]</p>
+<p>
+<span class="fa fa-reorder" style="color: #999999;"></span>&nbsp;&nbsp;<a href="publicaciones.html" title="Publicaciones">Todas las publicaciones</a></p>
+<br />
+<div class="divcolor"></div>
+</section>
 
 </article>
 
@@ -146,40 +133,7 @@ La <i>kamacheña</i> o <i>camacheña</i> (también llamada <i>quena jujeña</i>,
 
 <!-- Inicio de aside -->
 
-<aside>
-
-<meta http-equiv="Content-Type" content="text/html; charset=<$BlogEncoding$>" />
-
-<ul class="titlelat01">
-<li><a href="publicaciones.html" title="Publicaciones" alt="Publicaciones">publicaciones</a></li>
-<li><a href="https://www.edgardocivallero.com/editoriales.html" target="_blank" title="Editoriales" alt="Editoriales">editoriales</a></li>
-</ul>
-
-<ul class="titlelat">
-<li><a href="proyectos.html" title="Proyectos de investigación" alt="Proyectos de investigación">proyectos</a></li>
-</ul>
-
-<ul class="titlelat">
-<li><a href="actividades.html" title="Actividades" alt="Actividades">actividades</a></li>
-<li><a href="aula.html" title="Aula Abierta de Música Latinoamericana" alt="Aula Abierta de Música Latinoamericana">aula abierta</a></li>
-</ul>
-
-<ul class="titlelat">
-<li><a href="construccion.html" title="Construcción de instrumentos musicales" alt="Construcción de instrumentos musicales">construcción</a></li>
-</ul>
-
-<ul class="titlelat">
-<li><a href="grabaciones.html" title="Grabaciones" alt="Grabaciones">grabaciones</a></li>
-<li><a href="podcast.html" title="Podcast | Sonidos y silencios" alt="Podcast | Sonidos y silencios">podcast</a></li>
-</ul>
-
-<ul class="titlelat">
-<li><a href="clasificacion.html" title="Clasificación" alt="Clasificación">clasificación</a></li>
-<li><a href="fichas.html" title="Fichas" alt="Fichas">fichas</a></li>
-<li><a href="indice.html" title="Índice" alt="Índice">índice</a></li>
-</ul>
-
-</aside>
+<div data-include="includes/aside.html"></div>
 
 <!-- Fin de aside -->
 
@@ -189,26 +143,11 @@ La <i>kamacheña</i> o <i>camacheña</i> (también llamada <i>quena jujeña</i>,
 
 <!-- Inicio del pie -->
 
-<footer>
-
-<div class="divcolor"></div>
-
-<img src="img/pie.png" alt="Footer de Edgardo Civallero" />
-
-<div class="divcolor01"></div>
-
-<div class="footer01">
-
-<p class="redes">
-<a href="https://www.facebook.com/edgardo.civallero" target="_blank" title="Facebook" alt="Facebook"><span class="fa fa-facebook-square" style="font-size:3.3em; color:#999999;"></span></a><a href="https://es.linkedin.com/in/edcivallero" target="_blank" title="LinkedIn" alt="LinkedIn"><span class="fa fa-linkedin-square" style="font-size:3.3em; color:#999999;"></span></a><a href="https://www.instagram.com/edcivallero/" target="_blank" title="Instagram" alt="Instagram"><span class="fa fa-instagram" style="font-size:3.3em; color:#999999;"></span></a>
-</p>
-<p id="alignright">© Edgardo Civallero | <a href="copyright.html" title="Copyright y condiciones" alt="Copyright y condiciones">copyright y condiciones</a></p>
-
-</div>
-
-</footer>
+<div data-include="includes/footer.html"></div>
 
 <!-- Fin del Pie -->
+
+<script src="scripts/include.js"></script>
 
 </body>
 </html>
