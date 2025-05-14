@@ -149,7 +149,7 @@ margin-left: 80px;
 padding: 20px 0px;
 }
 
-a:link {
+a:link, a:visited {
 color: #a22;
 text-decoration: none;
 cursor: pointer;
