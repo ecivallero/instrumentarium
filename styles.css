@@ -178,13 +178,13 @@ li {
 padding: 5px 0px 5px 0px;
 }
 
-#apuntes ul, #notas ul, #notes ul, #sketches ul {
+#apuntes ul, #notas ul, #notes ul, #sketches ul, #astillas ul, #shards ul {
 list-style: none;
 padding-left: 0;
 margin-left: 0;
 }
 
-#apuntes ul > li, #notas ul > li, #notes ul > li, #sketches ul > li {
+#apuntes ul > li, #notas ul > li, #notes ul > li, #sketches ul > li, #astillas ul > li, #shards ul > li {
 list-style: none;
 padding: 5px 0;
 line-height: 1.6em;
