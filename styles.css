@@ -178,6 +178,18 @@ li {
 padding: 5px 0px 5px 0px;
 }
 
+#apuntes ul, #notas ul, #notes ul, #sketches ul {
+list-style: none;
+padding-left: 0;
+margin-left: 0;
+}
+
+#apuntes ul > li, #notas ul > li, #notes ul > li, #sketches ul > li {
+list-style: none;
+padding: 5px 0;
+line-height: 1.6em;
+}
+
 /* Barra blanca
 ----------------------------------------------- */
 
