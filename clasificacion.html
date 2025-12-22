@@ -71,24 +71,30 @@
 <hr />
 <h1>Clasificación de instrumentos musicales</h1>
 <hr />
-<p><a href="index.html" title="Inicio">Inicio</a> > <a href="proyectos.html" title="Proyectos">Proyectos</a> > Clasificación de instrumentos musicales</p>
+<p><a href="index.html" title="Inicio">Inicio</a> > Clasificación de instrumentos musicales</p>
 </header>
 
 <p>&nbsp;</p>
 
 <section>
 <p>
-El <a href="proyectos.html" title="Proyectos">proyecto de investigación-acción</a> <i>Clasificación de Instrumentos Musicales (MusIC)</i> presenta una revisión crítica de la clasificación de Hornbostel & Sachs (inspirada originalmente en la Clasificación Decimal Dewey para bibliotecas). Paralelamente, desarrolla una nueva taxonomía energético-acústica basada en la comprensión de los instrumentos como objetos documentales y epistémicos. El resultado es un sistema modular, basado en la excitación, capaz de describir toda la gama de objetos productores de sonido y sus posibilidades estructurales. </p>
+El <a href="proyectos.html" title="Proyectos">proyecto de investigación-acción</a> <b>MusIC (MUSical Instruments Classification, Clasificación de Instrumentos Musicales)</b> es una infraestructura clasificatoria y descriptiva para instrumentos musicales organizada en dos niveles. Está diseñada para reemplazar a Hornbostel-Sachs como esquema organológico por defecto. El sistema trata los instrumentos como <i>documentos</i> en el sentido estricto establecido por los estudios documentales: no como “textos”, sino como entidades materiales que se vuelven evidentes e inteligibles mediante regímenes de producción, custodia, descripción, uso y transmisión.</p>
 <p>
-La fase actual del proyecto incluye:</p>
-<p><ul>
-<li>Una reevaluación crítica del sistema Hornbostel & Sachs, con especial atención a su sesgo morfológico, sus dificultades con los instrumentos híbridos y electroacústicos, y las limitaciones de su estructura semántica actual (incluida la versión MIMO de 2011).</li>
-<li>Un replanteamiento teórico de los instrumentos como objetos documentales y epistémicos, que sienta las bases para una organología más relacional y consciente del contexto.</li>
-<li>Una nueva taxonomía energético-acústica, organizada como un sistema decimal modular basado en la excitación, el comportamiento acústico y la interacción material. El modelo está diseñado para ser interoperable con ontologías RDF/OWL y para alinearse con las categorías MIMO existentes, al tiempo que aborda áreas en las que el sistema actual sigue siendo incompleto.</li>
-<li>Una serie de clases teóricas de instrumentos que surgen de la lógica interna de esta estructura decimal. Estas clases representan tipos de instrumentos que son estructuralmente coherentes dentro del sistema, pero que aún no están atestiguados en ninguna tradición cultural conocida: instrumentos conceptualmente posibles generados por la completitud del modelo.</li>
-</ul></p>
+MusIC parte de la premisa de que <i>un instrumento es un documento sonoro</i>: una entidad epistémica duradera en la que múltiples saberes permanecen materialmente inscritos y son recuperables bajo condiciones específicas. Los instrumentos codifican decisiones técnicas, restricciones ecológicas, trayectorias de reparación y mantenimiento, regímenes de autorización y restricción, estructuras de transmisión (incluyendo exclusiones y silencios) y, posteriormente, traducciones institucionales en catálogos, grabaciones y descripciones de museo. Estos no son “contextos” secundarios; participan constitutivamente en lo que el artefacto es como documento.</p>
 <p>
-Durante 2026, esta página irá alojando progresivamente la documentación técnica del sistema: una descripción general de los niveles energéticos y acústicos, tablas de clasificación detalladas y ejemplos de su aplicación a instrumentos específicos.</p>
+MusIC responde a las limitaciones de Hornbostel-Sachs como dispositivo de conmensuración <i>ad hoc</i>, centrado en el museo, y producido en la ecología institucional del coleccionismo europeo y de la musicología comparada de principios del siglo XX: un árbol único orientado a hacer comparables artefactos heterogéneos dentro de las colecciones, pero que carece de (i) una ruta de expansión organizada y lógicamente consistente, y (ii) una estructura formal para representar dimensiones documentales no acústicas como entidades de primer orden, comparables y consultables.</p>
+<p>
+En consecuencia, MusIC separa dos funciones que Hornbostel-Sachs tiende a colapsar: la <b>direccionabilidad</b> (indexación comparativa compartida de la mecánica de la producción sonora) y la <b>inteligibilidad documental</b> (representación formal del espesor epistémico de un instrumento).</p>
+<p>
+Estas dos funciones se implementan como dos capas formalmente acopladas. El <b>Núcleo Decimal MusIC (MDC)</b> es un árbol decimal gobernado que proporciona una dirección estable y comparable, <i>únicamente</i> para la mecánica de producción sonora (p. ej., medio vibrante; régimen de entrada de energía; mecanismo de acoplamiento; configuración de resonador/radiador; y, de manera opcional, mediación entendida estrictamente como generación sónica). Tiene explícitamente prohibido codificar cultura, territorio, ritual, propiedad, tabú, biografía, transmisión o significado. La <b>Ontología Instrumental MusIC (MIO)</b> es una capa modelada formalmente (ontología más facetas, relaciones y eventos) que representa el instrumento como un documento e incluye: territorio y ecología como sistemas de restricciones; materiales biológicos y procedencia; regímenes de permisos y restricciones; historiales de reparación y mantenimiento; condiciones y normas de activación; estructuras de transmisión; y traducción institucional (registro, catalogación, aserciones de clasificación).</p>
+<p>
+Cada registro instrumental se rige por una regla vinculante estricta: recibe exactamente un código MDC primario como dirección predeterminada para navegación y recuperación, y puede contener entre 0 y n aserciones MIO que expresan su realidad documental. Los instrumentos híbridos se gestionan sin subclasificación <i>ad hoc</i>: un híbrido recibe un código MDC primario más códigos secundarios estandarizados de “also-has” (también presenta) para subsistemas adicionales de producción sonora, mientras que el MIO representa la hibridez explícitamente mediante modelado y relaciones de subsistemas. Esto preserva la estabilidad del índice sin forzar a instrumentos plurales a una única identidad acústica.</p>
+<p>
+MusIC también formaliza cinco fases epistémicas como tipos de eventos asociados al instrumento: negociación material; creación y ajuste; activación; aprendizaje y transmisión; y explicación, captura y traducción institucional. Tratar estas fases como estructura de eventos —y no como encuadre retórico— evita que la fase 5 (descripción institucional) se presente como la realidad total del instrumento: la clasificación, la catalogación y la grabación se representan explícitamente como operaciones de traducción, con agentes, condiciones, resultados y omisiones y pérdidas características.</p>
+<p>
+En resumen, el MDC mantiene la comparabilidad organológica práctica, mientras que el MIO preserva los instrumentos como documentos. MusIC no es, por tanto, “una taxonomía más limpia”, sino un rediseño de la infraestructura organológica: la indexación acústica sigue siendo posible sin forzar los documentos sonoros a un único régimen de legibilidad museística.</p>
+<p>
+Esta página albergará progresivamente la documentación del sistema: una descripción general de los niveles del MDC, tablas detalladas, notas de mapeo y ejemplos resueltos.</p>
 <p>
 Además del esquema de clasificación en sí y los textos relacionados que se presentan en esta página, el proyecto incluye <a href="fichas.html" title="Fichas de instrumentos musicales">fichas</a> de instrumentos musicales específicos y un <a href="indice.html" title="Índice">índice organológico</a>.</p>
 </section>
