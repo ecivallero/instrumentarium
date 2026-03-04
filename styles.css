@@ -308,6 +308,11 @@ margin: 0 auto;
 font-size: 1em;
 }
 
+nav .motto + .divcolor + .navbar {
+padding-top: 0;
+padding-bottom: 10px;
+}
+
 /* Color line
 ----------------------------------------------- */
 
