@@ -301,13 +301,12 @@ padding: 10px 0px 15px 30px;
 
 .motto {
 width: 75%;
-margin: 18px auto 6px auto;
 text-align: center;
 font-family: Verdana, sans-serif;
-font-size: 0.85em;
-letter-spacing: 0.12em;
-text-transform: lowercase;
 color: #666;
+padding: 20px 5px 10px 5px;
+margin: 0 3px;
+font-size: 0.9em;
 }
 
 /* Color line
