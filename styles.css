@@ -178,6 +178,13 @@ display: block;
 margin-right: 8px;
 }
 
+.video {
+background-color: #f5f5f5;
+padding: 10px;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+
 /* Listas
 ----------------------------------------------- */
 
@@ -203,6 +210,21 @@ margin-left: 0;
 list-style: none;
 padding: 5px 0;
 line-height: 1.6em;
+}
+
+.activity-examples {
+list-style: none;
+padding-left: 14px;
+padding-top: 0px;
+padding-bottom: 0px;
+border-left: 2px solid #e5e5e5;
+margin: 1px 0 10px 0;
+}
+
+.activity-examples li {
+margin: 2px 0;
+padding: 0;
+line-height: 1.35;
 }
 
 /* Barra blanca
@@ -468,33 +490,6 @@ padding-right: 10px;
 .redes span:hover {
 opacity: 0.4;
 filter: alpha(opacity=40);
-}
-
-/* Botones publicaciones
------------------------------------------------ */
-
-.pub-quick {
-margin: 10px 0 20px 0;
-display: flex;
-gap: 15px;
-}
-
-.pub-quick a {
-flex: 1;
-text-align: center;
-padding: 12px 10px;
-border: 1px solid #d9d9d9;
-background: #f7f7f7;
-color: #333;
-text-decoration: none;
-}
-
-.pub-quick a:hover {
-background: #ececec;
-}
-
-.pub-quick .fa {
-margin-right: 6px; color: #999;
 }
 
 /* Small devices (phones)
