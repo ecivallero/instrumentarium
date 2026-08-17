@@ -1,555 +1,569 @@
-<?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>https://www.instru-mentarium.org/</loc>
+       <loc>https://www.instru-mentarium.org/</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/actividades.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte025.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/articulos.html</loc>
+       <loc>https://www.instru-mentarium.org/blog.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/aula.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota029.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog.html</loc>
+       <loc>https://www.instru-mentarium.org/articulos.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte001.html</loc>
+       <loc>https://www.instru-mentarium.org/publicaciones.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte002.html</loc>
+       <loc>https://www.instru-mentarium.org/index.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte003.html</loc>
+       <loc>https://www.instru-mentarium.org/instrumentos.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte004.html</loc>
+       <loc>https://www.instru-mentarium.org/temas.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte005.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/introduccion-a-las-flautas-de-pan.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte006.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte024.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte007.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte023.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte008.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte022.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte009.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte021.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte010.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte020.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte011.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte019.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte012.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte018.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte013.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte017.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte014.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte016.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte015.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte015.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte016.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte014.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte017.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte013.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte018.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte012.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte019.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte011.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte020.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte010.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte021.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte009.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte022.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte008.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte023.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte007.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte024.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte006.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/apunte025.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte005.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota001.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte004.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota002.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte003.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota003.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte002.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota004.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/apunte001.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota005.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota028.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota006.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota027.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota007.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota026.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota008.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota025.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota009.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota024.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota010.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota023.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota011.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota022.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota012.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota021.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota013.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota020.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota014.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota019.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota015.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota018.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota016.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota017.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota017.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota016.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota018.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota015.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota019.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota014.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota020.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota013.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota021.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota012.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota022.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota011.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota023.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota010.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota024.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota009.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota025.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota008.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota026.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota007.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota027.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota006.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota028.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota005.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/blog/nota029.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota004.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/civallero.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota003.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/clasificacion.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota002.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/copyright.html</loc>
+       <loc>https://www.instru-mentarium.org/blog/nota001.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/about.html</loc>
+       <loc>https://www.instru-mentarium.org/libros-serie-1.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/activities.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/instrumentos-musicales-de-los-ava.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/articles.html</loc>
+       <loc>https://www.instru-mentarium.org/copyright.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog.html</loc>
+       <loc>https://www.instru-mentarium.org/libros-serie-2.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note001.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/arcos-musicales-de-America-del-Sur.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note002.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/los-bajones.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note003.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/los-parientes-africanos-de-la-banda-mocha-del-chota.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note004.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/instrumentos-musicales-de-los-chiquitano.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note005.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/las-raices-africanas-de-la-cana-de-millo-colombiana.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note006.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/caparazones-de-tortuga-en-la-musica-tradicional-latinoamericana.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note007.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/flautas-traversas-de-los-andes.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note008.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/clarinetes-tradicionales-de-america-del-sur-1.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note009.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/clarinetes-tradicionales-de-america-del-sur-2.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note010.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/el-erquencho.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note011.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/las-flautas-de-cabeza-de-cera-de-america-latina.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note012.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/flautas-de-pan-de-europa.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note013.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/flautas-de-pan-de-las-tierras-bajas-de-america-del-sur.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note014.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/flautas-de-pan-del-oriente-boliviano.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note015.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/silbatos-tradicionales-de-los-andes.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note016.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/una-aproximacion-a-las-bandas-de-sikuris.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note017.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/flautas-dobles-de-america-del-sur.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note018.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/flautas-de-una-mano-en-america-latina-1.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note019.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/la-kamachena.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note020.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/craneos-animales-en-la-musica-sudamericana.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note021.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/pinkillos.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note022.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/quenas.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note023.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/introduccion-a-las-tarkas.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note024.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/las-largas-trompetas-de-los-andes.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/note025.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/violines-tradicionales-de-america-latina-1.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch001.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/violines-tradicionales-de-america-latina-2.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch002.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/yanawan-yuraqwan.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
   <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch003.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch004.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch005.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch006.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch007.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch008.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch009.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch010.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch011.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch012.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch013.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch014.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch015.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch016.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch017.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch018.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch019.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch020.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch021.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch022.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch023.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch024.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch025.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch026.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch027.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch028.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/blog/sketch029.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books-series-1.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books-series-2.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/double-flutes-of-south-america.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/musical-instruments-of-the-ava-people.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/musical-instruments-of-the-chiquitano-people.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/one-handed-flutes-in-Latin-America-1.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/pinkillos.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/quenas.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/the-african-relatives-of-the-banda-mocha-of-chota.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/the-erkencho.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/the-kamachena.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/traditional-violins-of-latin-america-2.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/traditional-whistles-of-the-andes.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/transverse-flutes-of-the-andes.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/turtle-shells-in-traditional-latin-american-music.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/books/yanawan-yuraqwan.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/civallero.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/classification.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/copyright.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/course.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/english.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/instruments.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/invite.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/podcast.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/publications.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/eng/subjects.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/instrumentarium.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/instrumentos.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/invitar.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros-serie-1.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros-serie-2.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/arcos-musicales-de-America-del-Sur.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/caparazones-de-tortuga-en-la-musica-tradicional-latinoamericana.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/clarinetes-tradicionales-de-america-del-sur-1.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/clarinetes-tradicionales-de-america-del-sur-2.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/craneos-animales-en-la-musica-sudamericana.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/el-erquencho.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/flautas-de-pan-de-europa.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/flautas-de-pan-de-las-tierras-bajas-de-america-del-sur.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/flautas-de-pan-del-oriente-boliviano.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/flautas-de-una-mano-en-america-latina-1.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/flautas-dobles-de-america-del-sur.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/flautas-traversas-de-los-andes.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/instrumentos-musicales-de-los-ava.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/instrumentos-musicales-de-los-chiquitano.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/instrumentos-musicales-del-rio-guapore.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/introduccion-a-las-flautas-de-pan.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/introduccion-a-las-tarkas.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/la-kamachena.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/las-flautas-de-cabeza-de-cera-de-america-latina.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/las-largas-trompetas-de-los-andes.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/las-raices-africanas-de-la-cana-de-millo-colombiana.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/los-bajones.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/los-parientes-africanos-de-la-banda-mocha-del-chota.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/pinkillos.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/quenas.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/silbatos-tradicionales-de-los-andes.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/una-aproximacion-a-las-bandas-de-sikuris.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/violines-tradicionales-de-america-latina-1.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/violines-tradicionales-de-america-latina-2.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/libros/yanawan-yuraqwan.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/podcast.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/publicaciones.html</loc>
-  </url>
-  <url>
-    <loc>https://www.instru-mentarium.org/temas.html</loc>
+       <loc>https://www.instru-mentarium.org/libros/instrumentos-musicales-del-rio-guapore.html</loc>
+       <lastmod>2026-08-17T01:51:49+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
   </url>
 </urlset>
